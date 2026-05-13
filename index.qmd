@@ -1,0 +1,28 @@
+---
+title: "Interfacial Electrochemical Engineering Lab"
+image: images/site-logo.jpg
+about:
+  id: hero-heading
+  template: jolla
+  image-width: 24em
+  image-shape: rectangle
+
+---
+
+::: {#hero-heading}
+
+  The IEE Lab (Interfacial Electrochemical Engineering Laboratory), led by Dr. Chang Li at Westlake University, is dedicated to advancing the fundamental understanding and practical applications of electrochemical systems for energy conversion and storage. Our research focuses on unraveling the complex processes occurring at electrochemical interfaces, bridging molecular-level insights with device-level performance through advanced characterization, materials design, electrochemical engineering and automation-assisted data collection. We foster a collaborative and curiosity-driven environment where postdocs, graduate students, and research assistants work together to push the boundaries of interfacial electrochemistry for a cleaner energy future. 
+
+
+:::
+
+## News
+
+::: {.news-item}
+![](images/news/lab-launch.jpg){width=220px}
+
+**January 2027**  
+The Interfacial Electrochemical Engineering Lab officially launches at Westlake University.
+:::
+
+## Photos

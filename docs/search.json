@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "李昌的课题组主页"
+  },
+  {
+    "objectID": "Openings.html",
+    "href": "Openings.html",
+    "title": "Openings",
+    "section": "",
+    "text": "We are always seeking motivated postdoctoral researchers with expertise in electrochemistry, energy storage, automation or related fields to join our team. Ideal candidates will have a strong publication record and a passion for tackling challenging problems at the intersection of fundamental science and practical energy applications."
+  },
+  {
+    "objectID": "Openings.html#postdocs",
+    "href": "Openings.html#postdocs",
+    "title": "Openings",
+    "section": "",
+    "text": "We are always seeking motivated postdoctoral researchers with expertise in electrochemistry, energy storage, automation or related fields to join our team. Ideal candidates will have a strong publication record and a passion for tackling challenging problems at the intersection of fundamental science and practical energy applications."
+  },
+  {
+    "objectID": "Openings.html#phd-students",
+    "href": "Openings.html#phd-students",
+    "title": "Openings",
+    "section": "PhD students",
+    "text": "PhD students\nWe always welcome applications from prospective PhD students who are curious, self-driven, and eager to explore new frontiers in electrochemistry and energy science. Our lab provides rigorous training in both experimental techniques and scientific thinking, preparing students for impactful careers in academia or industry."
+  },
+  {
+    "objectID": "Openings.html#research-assistants",
+    "href": "Openings.html#research-assistants",
+    "title": "Openings",
+    "section": "Research assistants",
+    "text": "Research assistants\nWe always welcome dedicated research assistants to join our lab. This is an excellent opportunity for recent graduates to gain hands-on research experience in electrochemistry and energy materials before pursuing graduate studies."
+  },
+  {
+    "objectID": "Openings.html#contact",
+    "href": "Openings.html#contact",
+    "title": "Openings",
+    "section": "Contact",
+    "text": "Contact\nPlease directly reach out to Chang Li via lichang@westlake.edu.cn and let’s discuss your exciting research in IEE Lab!"
+  },
+  {
+    "objectID": "Team.html",
+    "href": "Team.html",
+    "title": "Team",
+    "section": "",
+    "text": "2027–Present — Assistant Professor, Westlake University\n2024–2026 — Postdoc, Lawrence Berkeley National Laboratory\n2019–2024 — Ph.D. in Chemistry, University of Waterloo\n2015–2019 — B.Eng. in Materials Science and Engineering, HUST\n\n\n\n\n\nlichang@westlake.edu.cn\n📚 Google Scholar\n  ORCID \nOffice: H6"
+  },
+  {
+    "objectID": "Team.html#chang-li-principal-investigator",
+    "href": "Team.html#chang-li-principal-investigator",
+    "title": "Team",
+    "section": "",
+    "text": "2027–Present — Assistant Professor, Westlake University\n2024–2026 — Postdoc, Lawrence Berkeley National Laboratory\n2019–2024 — Ph.D. in Chemistry, University of Waterloo\n2015–2019 — B.Eng. in Materials Science and Engineering, HUST\n\n\n\n\n\nlichang@westlake.edu.cn\n📚 Google Scholar\n  ORCID \nOffice: H6"
+  },
+  {
+    "objectID": "Team.html#postdoc",
+    "href": "Team.html#postdoc",
+    "title": "Team",
+    "section": "Postdoc",
+    "text": "Postdoc\n\n\nAlex\n\nYear in joining group: 2027\nEducation: Ph.D. in Chemistry (2026, University of Independence)\nResearch Interests: Solid state batteries\nAbout Me: I like eating\n\n\n\n alex@westlake.edu.cn"
+  },
+  {
+    "objectID": "Team.html#student",
+    "href": "Team.html#student",
+    "title": "Team",
+    "section": "Student",
+    "text": "Student\n\n\nLYZ\n\nYear in joining group: 2027\nEducation: B.Eng. in Materials Science and Engineering (2026, University of Curiosity)\nResearch Interests: Mg batteries\nAbout Me: I like cooking\n\n\n\n lyz@westlake.edu.cn"
+  },
+  {
+    "objectID": "Team.html#research-assistant",
+    "href": "Team.html#research-assistant",
+    "title": "Team",
+    "section": "Research Assistant",
+    "text": "Research Assistant\n\n\nYZ A. Li\n\nYear in joining group: 2027\nEducation: B.Eng. in Mechanical Engineering (2026, University of Courage)\nResearch Interests: Automation\nAbout Me: I like robots\n\n\n\n yal@westlake.edu.cn"
+  },
+  {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research",
+    "section": "",
+    "text": "We investigate how divalent ions (Mg²⁺, Zn²⁺, Ca²⁺) interact with electrochemical interfaces at the molecular level. By understanding and manipulating the ion’s solvation structure, we control whether it crosses an interface, what it forms when it arrives, and whether a desired reaction proceeds selectively in different electrochemical applications like battereies, electrochemical reduction and selective ion separation."
+  },
+  {
+    "objectID": "Research.html#solid-liquid-interfacial-electrochemistry",
+    "href": "Research.html#solid-liquid-interfacial-electrochemistry",
+    "title": "Research",
+    "section": "",
+    "text": "We investigate how divalent ions (Mg²⁺, Zn²⁺, Ca²⁺) interact with electrochemical interfaces at the molecular level. By understanding and manipulating the ion’s solvation structure, we control whether it crosses an interface, what it forms when it arrives, and whether a desired reaction proceeds selectively in different electrochemical applications like battereies, electrochemical reduction and selective ion separation."
+  },
+  {
+    "objectID": "Research.html#solid-solid-interfacial-electrochemistry",
+    "href": "Research.html#solid-solid-interfacial-electrochemistry",
+    "title": "Research",
+    "section": "Solid-Solid Interfacial Electrochemistry",
+    "text": "Solid-Solid Interfacial Electrochemistry\n\n\nSolid-state batteries promise higher safety and energy density. Our Research focuses on understanding and controlling solid–solid interface electrochemistry through an integrated experimental and computational approach. We are particularly interested in how local chemical environments, short-range structural heterogeneity, and electro-chemo-mechanical coupling collectively determine ion transport and interfacial stability across buried interfaces. Our goal is to develop scientifically grounded interface design principles that enable high-energy-density, long-lifetime, and mechanically robust solid-state batteries."
+  },
+  {
+    "objectID": "Research.html#automated-device-assembly-characterization",
+    "href": "Research.html#automated-device-assembly-characterization",
+    "title": "Research",
+    "section": "Automated Device Assembly & Characterization",
+    "text": "Automated Device Assembly & Characterization\n\n\nWe focuses on developing standardized and automated workflows for solid-state battery fabrication and testing. The platform integrates automated cell assembly, pressure control, and electrochemical characterization to enable systematic studies of solid electrolytes and interfaces. This infrastructure accelerates materials discovery while providing a foundation for reproducible and data-driven research for solid-state battery or other forms of energy devices."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Interfacial Electrochemical Engineering Lab",
+    "section": "",
+    "text": "The IEE Lab (Interfacial Electrochemical Engineering Laboratory), led by Dr. Chang Li at Westlake University, is dedicated to advancing the fundamental understanding and practical applications of electrochemical systems for energy conversion and storage. Our research focuses on unraveling the complex processes occurring at electrochemical interfaces, bridging molecular-level insights with device-level performance through advanced characterization, materials design, electrochemical engineering and automation-assisted data collection. We foster a collaborative and curiosity-driven environment where postdocs, graduate students, and research assistants work together to push the boundaries of interfacial electrochemistry for a cleaner energy future."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Interfacial Electrochemical Engineering Lab",
+    "section": "News",
+    "text": "News\n\n\nJanuary 2027\nThe Interfacial Electrochemical Engineering Lab officially launches at Westlake University."
+  },
+  {
+    "objectID": "index.html#photos",
+    "href": "index.html#photos",
+    "title": "Interfacial Electrochemical Engineering Lab",
+    "section": "Photos",
+    "text": "Photos"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "†: equal contribution; 📧: corresponding author\n\n\n\nTo be updated\n\n\n\n\n\n  \n\n Jinghan Li†, Chang Li†📧, Bo Liu, Yuzhang Li and Linda F. Nazar📧  Aqueous eutectic electrolytes suppress oxygen and hydrogen evolution for long-life Zn||MnO2 dual-electrode-free batteries  Nat. Energy 2026, DOI: 10.1038/s41560-025-01958-8\n\n\n\n  \n\n Chang Li, Rohith Srinivaas Mohanakrishnan, Jinghan Li, Rishabh D. Guha, Kristin A. Persson and Linda F. Nazar📧  Unraveling the Steric Effect of Trialkyl Phosphates on the Solvation Sheath and Solid Electrolyte Interphase in High-Efficiency Magnesium Electrolytes  J. Am. Chem. Soc. 2026, DOI: 10.1021/jacs.5c14645\n\n\n\n  \n\n Chang Li, Rishabh D. Guha, Stephen D. House, J. David Bazak, Yue Yu, Laidong Zhou, Kevin Zavadi, Kristin A. Persson and Linda F. Nazar📧  A dynamically bare metal interface enables reversible magnesium electrodeposition at 50 mAh cm-2  Joule 2025, DOI: 10.1016/j.joule.2024.11.007\n\n\n\n  \n\n Chang Li, Rishabh D. Guha, Abhinandan Shyamsunder, Kristin A. Persson📧 and Linda F. Nazar📧  A weakly ion pairing electrolyte designed for high voltage magnesium batteries  Energy Environ. Sci. 2024, DOI: 10.1039/d3ee02861e\n\n\n\n  \n\n Laidong Zhou, J. David Bazak, Chang Li, and Linda F.Nazar📧  4 V Na Solid State Batteries Enabled by a Scalable Sodium Metal Oxyhalide Solid Electrolyte  ACS Energy Lett. 2024, DOI: 10.1021/acsenergylett.4c01855\n\n\n\n  \n\n Chang Li, Abhinandan Shyamsunder, Baris Key, Zhuo Yu and Linda F. Nazar📧  Stabilizing magnesium plating by a low-cost inorganic surface membrane for high-voltage and high-power Mg batteries  Joule 2023, DOI: 10.1016/j.joule.2023.10.012\n\n\n\n  \n\n Chang Li, Ryan Kingsbury, Arashdeep Singh Thind, Abhinandan Shyamsunder, Timothy T. Fister, Robert F. Klie, Kristin A. Persson📧 and Linda F. Nazar📧  Enabling selective zinc-ion intercalation by a eutectic electrolyte for practical anodeless zinc batteries  Nat. Commun. 2023, DOI: 10.1038/s41467-023-38460-2\n\n\n\n  \n\n Laidong Zhou, J.David Bazak, Baltej Singh, Chang Li, Abdeljalil Assoud, Nancy M.Washton, Vijayakumar Murugesan and Linda F.Nazar📧  A New Sodium Thioborate Fast Ion Conductor: Na3B5S9  Angew. Chem. Int. Ed. 2023, DOI: 10.1002/anie.202300404\n\n\n\n  \n\n Yangyang Huang, Laidong Zhou, Chang Li, Zhuo Yu and Linda F.Nazar📧  Waxing Bare High-Voltage Cathode Surfaces to Enable Sulfide Solid-State Batteries  ACS Energy Lett. 2023, DOI: 10.1021/acsenergylett.3c01717\n\n\n\n  \n\n Laidong Zhou, Tongtong Zuo, Chang Li, Qiang Zhang, Jürgen Janek📧 and Linda F.Nazar📧  Li3−xZrx(Ho/Lu)1−xCl6 Solid Electrolytes Enable Ultrahigh-Loading Solid-State Batteries with a Prelithiated Si Anode  ACS Energy Lett. 2023, DOI: 10.1021/acsenergylett.3c00763\n\n\n\n  \n\n Lauren E. Blanc, Yunyeong Choi, Abhinandan Shyamsunder, Baris Key, Saul H. Lapidus, Chang Li, Liang Yin, Xiang Li, Bharat Gwalani, Yihan Xiao, Christopher J. Bartel, Gerbrand Ceder📧 and Linda F.Nazar📧  Phase Stability and Kinetics of Topotactic Dual Ca2+−Na+ Ion Electrochemistry in NaSICON NaV2(PO4)3  Chem. Mater. 2023, DOI: 10.1021/acs.chemmater.2c02816\n\n\n\n  \n\n Chang Li, Shuo Jin, Lynden A. Archer📧 and Linda F. Nazar📧  Toward practical aqueous zinc-ion batteries for electrochemical energy storage  Joule 2022, DOI: 10.1016/j.joule.2022.06.002\n\n\n\n  \n\n Chang Li, Abhinandan Shyamsunder,cAlexis Grace Hoane, Daniel M. Long, Chun Yuen Kwok, Paul G. Kotula, Kevin R. Zavadil, Andrew A. Gewirth📧 and Linda F. Nazar📧  Highly reversible Zn anode with a practical areal capacity enabled by a sustainable electrolyte and superacid interfacial chemistry  Joule 2022, DOI: 10.1016/j.joule.2022.04.017\n\n\n\n  \n\n Chang Li, Ryan Kingsbury, Laidong Zhou, Abhinandan Shyamsunder, Kristin A. Persson and Linda F. Nazar📧  Tuning the Solvation Structure in Aqueous Zinc Batteries to Maximize Zn-Ion Intercalation and Optimize Dendrite-Free Zinc Plating  ACS Energy Lett. 2022, DOI: 10.1021/acsenergylett.1c02514\n\n\n\n  \n\n Yi Liu, Chang Li, Jia Xu, Mingyang Ou, Chun Fang, Shixiong Sun, Yuegang Qiu, Jian Peng, Gongchang Lu, Qing Li, Jiantao Han📧, Yunhui Huang  Electroactivation-induced spinel ZnV2O4 as a high-performance cathode material for aqueous zinc-ion battery  Nano Energy 2020, DOI: 10.1016/j.nanoen.2019.104211\n\n\n\n  \n\n Jinwen Yin†, Yi Shen†, Chang Li†, Chenyang Fan, Shixiong Sun, Yi Liu, Jian Peng📧, Li Qing and Jiantao Han📧  In Situ Self-Assembly of Core–Shell Multimetal Prussian Blue Analogues for High-Performance Sodium-Ion Batteries  ChemSusChem 2019, DOI: 10.1002/cssc.201902013\n\n\n\n  \n\n Jian Peng,† Chang Li,† Jinwen Yin,† Jinsong Wang, Yonghui Yu, Yi Shen, Ju Fang, Annan Chen, Yue Xu, Ratul Rehman, Chun Fang, Ling Miao, Renzhi Jiang, Qing Li, Jiantao Han📧, and Yunhui Huang  Novel Cerium Hexacyanoferrate(II) as Cathode Material for Sodium-Ion Batteries  ACS Appl. Energy Mater. 2019, DOI: 10.1021/acsaem.8b01686\n\n\n\n  \n\n YYangyang Huang, Xiang Li,, Jinsong Wang, Lin Miao, Chang Li, Jiantao Han📧 and Yunhui Huang📧  Superior Na-ion storage achieved by Ti substitution in Na3V2(PO4)3  Energy Storage Materials 2018, DOI: 10.1016/j.ensm.2018.03.021"
+  },
+  {
+    "objectID": "publications.html#journal-publications",
+    "href": "publications.html#journal-publications",
+    "title": "Publications",
+    "section": "",
+    "text": "†: equal contribution; 📧: corresponding author\n\n\n\nTo be updated\n\n\n\n\n\n  \n\n Jinghan Li†, Chang Li†📧, Bo Liu, Yuzhang Li and Linda F. Nazar📧  Aqueous eutectic electrolytes suppress oxygen and hydrogen evolution for long-life Zn||MnO2 dual-electrode-free batteries  Nat. Energy 2026, DOI: 10.1038/s41560-025-01958-8\n\n\n\n  \n\n Chang Li, Rohith Srinivaas Mohanakrishnan, Jinghan Li, Rishabh D. Guha, Kristin A. Persson and Linda F. Nazar📧  Unraveling the Steric Effect of Trialkyl Phosphates on the Solvation Sheath and Solid Electrolyte Interphase in High-Efficiency Magnesium Electrolytes  J. Am. Chem. Soc. 2026, DOI: 10.1021/jacs.5c14645\n\n\n\n  \n\n Chang Li, Rishabh D. Guha, Stephen D. House, J. David Bazak, Yue Yu, Laidong Zhou, Kevin Zavadi, Kristin A. Persson and Linda F. Nazar📧  A dynamically bare metal interface enables reversible magnesium electrodeposition at 50 mAh cm-2  Joule 2025, DOI: 10.1016/j.joule.2024.11.007\n\n\n\n  \n\n Chang Li, Rishabh D. Guha, Abhinandan Shyamsunder, Kristin A. Persson📧 and Linda F. Nazar📧  A weakly ion pairing electrolyte designed for high voltage magnesium batteries  Energy Environ. Sci. 2024, DOI: 10.1039/d3ee02861e\n\n\n\n  \n\n Laidong Zhou, J. David Bazak, Chang Li, and Linda F.Nazar📧  4 V Na Solid State Batteries Enabled by a Scalable Sodium Metal Oxyhalide Solid Electrolyte  ACS Energy Lett. 2024, DOI: 10.1021/acsenergylett.4c01855\n\n\n\n  \n\n Chang Li, Abhinandan Shyamsunder, Baris Key, Zhuo Yu and Linda F. Nazar📧  Stabilizing magnesium plating by a low-cost inorganic surface membrane for high-voltage and high-power Mg batteries  Joule 2023, DOI: 10.1016/j.joule.2023.10.012\n\n\n\n  \n\n Chang Li, Ryan Kingsbury, Arashdeep Singh Thind, Abhinandan Shyamsunder, Timothy T. Fister, Robert F. Klie, Kristin A. Persson📧 and Linda F. Nazar📧  Enabling selective zinc-ion intercalation by a eutectic electrolyte for practical anodeless zinc batteries  Nat. Commun. 2023, DOI: 10.1038/s41467-023-38460-2\n\n\n\n  \n\n Laidong Zhou, J.David Bazak, Baltej Singh, Chang Li, Abdeljalil Assoud, Nancy M.Washton, Vijayakumar Murugesan and Linda F.Nazar📧  A New Sodium Thioborate Fast Ion Conductor: Na3B5S9  Angew. Chem. Int. Ed. 2023, DOI: 10.1002/anie.202300404\n\n\n\n  \n\n Yangyang Huang, Laidong Zhou, Chang Li, Zhuo Yu and Linda F.Nazar📧  Waxing Bare High-Voltage Cathode Surfaces to Enable Sulfide Solid-State Batteries  ACS Energy Lett. 2023, DOI: 10.1021/acsenergylett.3c01717\n\n\n\n  \n\n Laidong Zhou, Tongtong Zuo, Chang Li, Qiang Zhang, Jürgen Janek📧 and Linda F.Nazar📧  Li3−xZrx(Ho/Lu)1−xCl6 Solid Electrolytes Enable Ultrahigh-Loading Solid-State Batteries with a Prelithiated Si Anode  ACS Energy Lett. 2023, DOI: 10.1021/acsenergylett.3c00763\n\n\n\n  \n\n Lauren E. Blanc, Yunyeong Choi, Abhinandan Shyamsunder, Baris Key, Saul H. Lapidus, Chang Li, Liang Yin, Xiang Li, Bharat Gwalani, Yihan Xiao, Christopher J. Bartel, Gerbrand Ceder📧 and Linda F.Nazar📧  Phase Stability and Kinetics of Topotactic Dual Ca2+−Na+ Ion Electrochemistry in NaSICON NaV2(PO4)3  Chem. Mater. 2023, DOI: 10.1021/acs.chemmater.2c02816\n\n\n\n  \n\n Chang Li, Shuo Jin, Lynden A. Archer📧 and Linda F. Nazar📧  Toward practical aqueous zinc-ion batteries for electrochemical energy storage  Joule 2022, DOI: 10.1016/j.joule.2022.06.002\n\n\n\n  \n\n Chang Li, Abhinandan Shyamsunder,cAlexis Grace Hoane, Daniel M. Long, Chun Yuen Kwok, Paul G. Kotula, Kevin R. Zavadil, Andrew A. Gewirth📧 and Linda F. Nazar📧  Highly reversible Zn anode with a practical areal capacity enabled by a sustainable electrolyte and superacid interfacial chemistry  Joule 2022, DOI: 10.1016/j.joule.2022.04.017\n\n\n\n  \n\n Chang Li, Ryan Kingsbury, Laidong Zhou, Abhinandan Shyamsunder, Kristin A. Persson and Linda F. Nazar📧  Tuning the Solvation Structure in Aqueous Zinc Batteries to Maximize Zn-Ion Intercalation and Optimize Dendrite-Free Zinc Plating  ACS Energy Lett. 2022, DOI: 10.1021/acsenergylett.1c02514\n\n\n\n  \n\n Yi Liu, Chang Li, Jia Xu, Mingyang Ou, Chun Fang, Shixiong Sun, Yuegang Qiu, Jian Peng, Gongchang Lu, Qing Li, Jiantao Han📧, Yunhui Huang  Electroactivation-induced spinel ZnV2O4 as a high-performance cathode material for aqueous zinc-ion battery  Nano Energy 2020, DOI: 10.1016/j.nanoen.2019.104211\n\n\n\n  \n\n Jinwen Yin†, Yi Shen†, Chang Li†, Chenyang Fan, Shixiong Sun, Yi Liu, Jian Peng📧, Li Qing and Jiantao Han📧  In Situ Self-Assembly of Core–Shell Multimetal Prussian Blue Analogues for High-Performance Sodium-Ion Batteries  ChemSusChem 2019, DOI: 10.1002/cssc.201902013\n\n\n\n  \n\n Jian Peng,† Chang Li,† Jinwen Yin,† Jinsong Wang, Yonghui Yu, Yi Shen, Ju Fang, Annan Chen, Yue Xu, Ratul Rehman, Chun Fang, Ling Miao, Renzhi Jiang, Qing Li, Jiantao Han📧, and Yunhui Huang  Novel Cerium Hexacyanoferrate(II) as Cathode Material for Sodium-Ion Batteries  ACS Appl. Energy Mater. 2019, DOI: 10.1021/acsaem.8b01686\n\n\n\n  \n\n YYangyang Huang, Xiang Li,, Jinsong Wang, Lin Miao, Chang Li, Jiantao Han📧 and Yunhui Huang📧  Superior Na-ion storage achieved by Ti substitution in Na3V2(PO4)3  Energy Storage Materials 2018, DOI: 10.1016/j.ensm.2018.03.021"
+  },
+  {
+    "objectID": "publications.html#seminar-presentations",
+    "href": "publications.html#seminar-presentations",
+    "title": "Publications",
+    "section": "Seminar Presentations",
+    "text": "Seminar Presentations\n\n  \n\n Chang Li and Linda F. Nazar   Electrode/Electrolyte Interface Control for Multivalent-Ion Batteries with High Stability and Reversibility  Materials Research Society (MRS) Fall Meeting 2023, Boston, Nov. 27th, 2023"
+  }
+]

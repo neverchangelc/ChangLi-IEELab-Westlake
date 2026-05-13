@@ -1,0 +1,280 @@
+---
+title: "Publications"
+editor: visual
+---
+
+
+## Journal Publications
+†: equal contribution; 📧: corresponding author
+
+### 2027
+- To be updated
+
+### Before joining Westlake
+<div class="pub-item">
+<a href="publications/BeforeJoiningWestlake/Eutectic-Zn-MnO2_NatEng2026.pdf" target="_blank">
+  <img src="publications/BeforeJoiningWestlake/Eutectic-Zn-MnO2_NatEng2026_cover.jpg" class="pub-cover">
+</a>
+<div class="pub-text">
+<strong> Jinghan Li†, Chang Li†📧, Bo Liu, Yuzhang Li and Linda F. Nazar📧</strong><br>
+<em>
+Aqueous eutectic electrolytes suppress oxygen and hydrogen evolution for long-life Zn||MnO2 dual-electrode-free batteries
+</em><br>
+Nat. Energy 2026, [DOI: 10.1038/s41560-025-01958-8](https://www.nature.com/articles/s41560-025-01958-8)
+</div>
+</div>
+
+
+<div class="pub-item">
+<a href="publications/BeforeJoiningWestlake/Steric-effect-Mg-electrolytes-JACS-2026.pdf" target="_blank">
+  <img src="publications/BeforeJoiningWestlake/Steric-effect-Mg-electrolytes-JACS-2026_cover.jpg" class="pub-cover">
+</a>
+<div class="pub-text">
+<strong> Chang Li, Rohith Srinivaas Mohanakrishnan, Jinghan Li, Rishabh D. Guha, Kristin A. Persson and Linda F. Nazar📧</strong><br>
+<em>
+Unraveling the Steric Effect of Trialkyl Phosphates on the Solvation Sheath and Solid Electrolyte Interphase in High-Efficiency Magnesium Electrolytes
+</em><br>
+J. Am. Chem. Soc. 2026, [DOI: 10.1021/jacs.5c14645](https://pubs.acs.org/doi/10.1021/jacs.5c14645)
+</div>
+</div>
+
+
+<div class="pub-item">
+<a href="publications/BeforeJoiningWestlake/Bare-Mg-interface_Joule2025.pdf" target="_blank">
+  <img src="publications/BeforeJoiningWestlake/Bare-Mg-interface_Joule2025_cover.jpg" class="pub-cover">
+</a>
+<div class="pub-text">
+<strong> Chang Li, Rishabh D. Guha, Stephen D. House, J. David Bazak, Yue Yu, Laidong Zhou, Kevin Zavadi, Kristin A. Persson and Linda F. Nazar📧</strong><br>
+<em>
+A dynamically bare metal interface enables reversible magnesium electrodeposition at 50 mAh cm-2
+</em><br>
+Joule 2025, [DOI: 10.1016/j.joule.2024.11.007](https://doi.org/10.1016/j.joule.2024.11.007)
+</div>
+</div>
+
+
+<div class="pub-item">
+<a href="publications/BeforeJoiningWestlake/CEPE-Mg-electrolyte_EES2024.pdf" target="_blank">
+  <img src="publications/BeforeJoiningWestlake/CEPE-Mg-electrolyte_EES2024_cover.jpg" class="pub-cover">
+</a>
+<div class="pub-text">
+<strong> Chang Li, Rishabh D. Guha, Abhinandan Shyamsunder, Kristin A. Persson📧 and Linda F. Nazar📧</strong><br>
+<em>
+A weakly ion pairing electrolyte designed for high voltage magnesium batteries
+</em><br>
+Energy Environ. Sci. 2024, [DOI: 10.1039/d3ee02861e](https://doi.org/10.1039/D3EE02861E)
+</div>
+</div>
+
+
+<div class="pub-item">
+<a href="publications/BeforeJoiningWestlake/Amorphous-NaTaOCl4_ACSEnergyLett2024.pdf" target="_blank">
+  <img src="publications/BeforeJoiningWestlake/Amorphous-NaTaOCl4_ACSEnergyLett2024_cover.jpg" class="pub-cover">
+</a>
+<div class="pub-text">
+<strong> Laidong Zhou, J. David Bazak, Chang Li, and Linda F.Nazar📧</strong><br>
+<em>
+4 V Na Solid State Batteries Enabled by a Scalable Sodium Metal Oxyhalide Solid Electrolyte
+</em><br>
+ACS Energy Lett. 2024, [DOI: 10.1021/acsenergylett.4c01855](https://doi.org/10.1021/acsenergylett.4c01855)
+</div>
+</div>
+
+
+<div class="pub-item">
+<a href="publications/BeforeJoiningWestlake/Zeolite-membrane-Mg_Joule2023.pdf" target="_blank">
+  <img src="publications/BeforeJoiningWestlake/Zeolite-membrane-Mg_Joule2023_cover.jpg" class="pub-cover">
+</a>
+<div class="pub-text">
+<strong> Chang Li, Abhinandan Shyamsunder, Baris Key, Zhuo Yu and Linda F. Nazar📧</strong><br>
+<em>
+Stabilizing magnesium plating by a low-cost inorganic surface membrane for high-voltage and high-power Mg batteries
+</em><br>
+Joule 2023, [DOI: 10.1016/j.joule.2023.10.012 ](https://doi.org/10.1016/j.joule.2023.10.012)
+</div>
+</div>
+
+
+<div class="pub-item">
+<a href="publications/BeforeJoiningWestlake/Hybrid-eutectic-electrolyte-anodefree_NatCommun2023.pdf" target="_blank">
+  <img src="publications/BeforeJoiningWestlake/Hybrid-eutectic-electrolyte-anodefree_NatCommun2023_cover.jpg" class="pub-cover">
+</a>
+<div class="pub-text">
+<strong> Chang Li, Ryan Kingsbury, Arashdeep Singh Thind, Abhinandan Shyamsunder, Timothy T. Fister, Robert F. Klie, Kristin A. Persson📧 and Linda F. Nazar📧</strong><br>
+<em>
+Enabling selective zinc-ion intercalation by a eutectic electrolyte for practical anodeless zinc batteries
+</em><br>
+Nat. Commun. 2023, [DOI: 10.1038/s41467-023-38460-2](https://doi.org/10.1038/s41467-023-38460-2)
+</div>
+</div>
+
+
+<div class="pub-item">
+<a href="publications/BeforeJoiningWestlake/Na3B5S9_AngewChemIntEd2023.pdf" target="_blank">
+  <img src="publications/BeforeJoiningWestlake/Na3B5S9_AngewChemIntEd2023_cover.jpg" class="pub-cover">
+</a>
+<div class="pub-text">
+<strong> Laidong Zhou, J.David Bazak, Baltej Singh, Chang Li, Abdeljalil Assoud, Nancy M.Washton, Vijayakumar Murugesan and Linda F.Nazar📧</strong><br>
+<em>
+A New Sodium Thioborate Fast Ion Conductor: Na3B5S9
+</em><br>
+Angew. Chem. Int. Ed. 2023, [DOI: 10.1002/anie.202300404](https://doi.org/10.1002/anie.202300404)
+</div>
+</div>
+
+
+<div class="pub-item">
+<a href="publications/BeforeJoiningWestlake/Waxing-Cathode-SSB_ACSEnergyLett2023.pdf" target="_blank">
+  <img src="publications/BeforeJoiningWestlake/Waxing-Cathode-SSB_ACSEnergyLett2023_cover.jpg" class="pub-cover">
+</a>
+<div class="pub-text">
+<strong> Yangyang Huang, Laidong Zhou, Chang Li, Zhuo Yu and Linda F.Nazar📧</strong><br>
+<em>
+Waxing Bare High-Voltage Cathode Surfaces to Enable Sulfide Solid-State Batteries
+</em><br>
+ACS Energy Lett. 2023, [DOI: 10.1021/acsenergylett.3c01717](https://doi.org/10.1021/acsenergylett.3c01717)
+</div>
+</div>
+
+
+<div class="pub-item">
+<a href="publications/BeforeJoiningWestlake/Li3−xZrx(Ho-Lu)1−xCl6_ACSEnergyLett2023.pdf" target="_blank">
+  <img src="publications/BeforeJoiningWestlake/Li3−xZrx(Ho-Lu)1−xCl6_ACSEnergyLett2023_cover.jpg" class="pub-cover">
+</a>
+<div class="pub-text">
+<strong> Laidong Zhou, Tongtong Zuo, Chang Li, Qiang Zhang, Jürgen Janek📧 and Linda F.Nazar📧</strong><br>
+<em>
+Li3−xZrx(Ho/Lu)1−xCl6 Solid Electrolytes Enable Ultrahigh-Loading Solid-State Batteries with a Prelithiated Si Anode
+</em><br>
+ACS Energy Lett. 2023, [DOI: 10.1021/acsenergylett.3c00763](https://doi.org/10.1021/acsenergylett.3c00763)
+</div>
+</div>
+
+
+<div class="pub-item">
+<a href="publications/BeforeJoiningWestlake/Ca–Na-NaSICON-NVP_ChemMater2023.pdf" target="_blank">
+  <img src="publications/BeforeJoiningWestlake/Ca–Na-NaSICON-NVP_ChemMater2023_cover.jpg" class="pub-cover">
+</a>
+<div class="pub-text">
+<strong> Lauren E. Blanc, Yunyeong Choi, Abhinandan Shyamsunder, Baris Key, Saul H. Lapidus, Chang Li, Liang Yin, Xiang Li, Bharat Gwalani, Yihan Xiao, Christopher J. Bartel, Gerbrand Ceder📧 and Linda F.Nazar📧</strong><br>
+<em>
+Phase Stability and Kinetics of Topotactic Dual Ca2+−Na+ Ion Electrochemistry in NaSICON NaV2(PO4)3
+</em><br>
+Chem. Mater. 2023, [DOI: 10.1021/acs.chemmater.2c02816](https://doi.org/10.1021/acs.chemmater.2c02816)
+</div>
+</div>
+
+
+<div class="pub-item">
+<a href="publications/BeforeJoiningWestlake/ZIB-commentary_Joule2022.pdf" target="_blank">
+  <img src="publications/BeforeJoiningWestlake/ZIB-commentary_Joule2022_cover.jpg" class="pub-cover">
+</a>
+<div class="pub-text">
+<strong> Chang Li, Shuo Jin, Lynden A. Archer📧 and Linda F. Nazar📧</strong><br>
+<em>
+Toward practical aqueous zinc-ion batteries for electrochemical energy
+storage
+</em><br>
+Joule 2022, [DOI: 10.1016/j.joule.2022.06.002](https://doi.org/10.1016/j.joule.2022.06.002)
+</div>
+</div>
+
+
+<div class="pub-item">
+<a href="publications/BeforeJoiningWestlake/DOTF-additive_Joule2022.pdf" target="_blank">
+  <img src="publications/BeforeJoiningWestlake/DOTF-additive_Joule2022_cover.jpg" class="pub-cover">
+</a>
+<div class="pub-text">
+<strong> Chang Li, Abhinandan Shyamsunder,cAlexis Grace Hoane, Daniel M. Long, Chun Yuen Kwok, Paul G. Kotula, Kevin R. Zavadil, Andrew A. Gewirth📧 and Linda F. Nazar📧</strong><br>
+<em>
+Highly reversible Zn anode with a practical areal capacity enabled by a sustainable electrolyte and superacid interfacial chemistry
+</em><br>
+Joule 2022, [DOI: 10.1016/j.joule.2022.04.017](https://doi.org/10.1016/j.joule.2022.04.017)
+</div>
+</div>
+
+
+<div class="pub-item">
+<a href="publications/BeforeJoiningWestlake/Proton-Intercation-PEG_ACSEnergyLett2022.pdf" target="_blank">
+  <img src="publications/BeforeJoiningWestlake/Proton-Intercation-PEG_ACSEnergyLett2022_cover.jpg" class="pub-cover">
+</a>
+<div class="pub-text">
+<strong> Chang Li, Ryan Kingsbury, Laidong Zhou, Abhinandan Shyamsunder, Kristin A. Persson and Linda F. Nazar📧</strong><br>
+<em>
+Tuning the Solvation Structure in Aqueous Zinc Batteries to Maximize Zn-Ion Intercalation and Optimize Dendrite-Free Zinc Plating
+</em><br>
+ACS Energy Lett. 2022, [DOI: 10.1021/acsenergylett.1c02514](https://doi.org/10.1021/acsenergylett.1c02514)
+</div>
+</div>
+
+
+<div class="pub-item">
+<a href="publications/BeforeJoiningWestlake/ZnV2O4_NanoEnergy2020.pdf" target="_blank">
+  <img src="publications/BeforeJoiningWestlake/ZnV2O4_NanoEnergy2020_cover.jpg" class="pub-cover">
+</a>
+<div class="pub-text">
+<strong> Yi Liu, Chang Li, Jia Xu, Mingyang Ou, Chun Fang, Shixiong Sun, Yuegang Qiu, Jian Peng, Gongchang Lu, Qing Li, Jiantao Han📧, Yunhui Huang</strong><br>
+<em>
+Electroactivation-induced spinel ZnV2O4 as a high-performance cathode material for aqueous zinc-ion battery
+</em><br>
+Nano Energy 2020, [DOI: 10.1016/j.nanoen.2019.104211](https://doi.org/10.1016/j.nanoen.2019.104211)
+</div>
+</div>
+
+
+<div class="pub-item">
+<a href="publications/BeforeJoiningWestlake/Core-Shell-PBAs_ChemSusChem2019.pdf" target="_blank">
+  <img src="publications/BeforeJoiningWestlake/Core-Shell-PBAs_ChemSusChem2019_cover.jpg" class="pub-cover">
+</a>
+<div class="pub-text">
+<strong> Jinwen Yin†, Yi Shen†, Chang Li†, Chenyang Fan, Shixiong Sun, Yi Liu, Jian Peng📧, Li Qing and Jiantao Han📧</strong><br>
+<em>
+In Situ Self-Assembly of Core–Shell Multimetal Prussian Blue Analogues for High-Performance Sodium-Ion Batteries
+</em><br>
+ChemSusChem 2019, [DOI: 10.1002/cssc.201902013](https://doi.org/10.1002/cssc.201902013)
+</div>
+</div>
+
+
+<div class="pub-item">
+<a href="publications/BeforeJoiningWestlake/Ce-PBAs_ACSApplEngMater_2019.pdf" target="_blank">
+  <img src="publications/BeforeJoiningWestlake/Ce-PBAs_ACSApplEngMater_2019_cover.jpg" class="pub-cover">
+</a>
+<div class="pub-text">
+<strong> Jian Peng,† Chang Li,† Jinwen Yin,† Jinsong Wang, Yonghui Yu, Yi Shen, Ju Fang, Annan Chen, Yue Xu, Ratul Rehman, Chun Fang, Ling Miao, Renzhi Jiang, Qing Li, Jiantao Han📧, and Yunhui Huang</strong><br>
+<em>
+Novel Cerium Hexacyanoferrate(II) as Cathode Material for Sodium-Ion Batteries
+</em><br>
+ACS Appl. Energy Mater. 2019, [DOI: 10.1021/acsaem.8b01686](http://dx.doi.org/10.1021/acsaem.8b01686)
+</div>
+</div>
+
+
+<div class="pub-item">
+<a href="publications/BeforeJoiningWestlake/Ti-Substitution-Na3V2(PO4)3_ESM2018.pdf" target="_blank">
+  <img src="publications/BeforeJoiningWestlake/Ti-Substitution-Na3V2(PO4)3_ESM2018_cover.jpg" class="pub-cover">
+</a>
+<div class="pub-text">
+<strong> YYangyang Huang, Xiang Li,, Jinsong Wang, Lin Miao, Chang Li, Jiantao Han📧 and Yunhui Huang📧</strong><br>
+<em>
+Superior Na-ion storage achieved by Ti substitution in Na3V2(PO4)3
+</em><br>
+Energy Storage Materials 2018, [DOI: 10.1016/j.ensm.2018.03.021](https://doi.org/10.1016/j.ensm.2018.03.021)
+</div>
+</div>
+
+
+## Seminar Presentations
+
+<div class="pub-item">
+<a href="publications/SeminarPresentations/20231127_MRS 2023 Fall_Final.pdf" target="_blank">
+  <img src="publications/SeminarPresentations/20231127_MRS 2023 Fall_Final_cover.jpg" class="pub-cover">
+</a>
+<div class="pub-text">
+<strong> Chang Li and Linda F. Nazar </strong><br>
+<em>
+Electrode/Electrolyte Interface Control for Multivalent-Ion Batteries with High Stability and Reversibility
+</em><br>
+Materials Research Society (MRS) Fall Meeting 2023, Boston, Nov. 27th, 2023
+</div>
+</div>

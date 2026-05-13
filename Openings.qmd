@@ -1,0 +1,24 @@
+---
+title: "Openings"
+editor: 
+  markdown: 
+    wrap: 72
+image: images/recruitment.png
+about:
+  id: hero-heading
+  template: solana
+  image-width: 24em
+  image-shape: rounded
+---
+
+## Postdocs
+We are always seeking motivated postdoctoral researchers with expertise in electrochemistry, energy storage, automation or related fields to join our team. Ideal candidates will have a strong publication record and a passion for tackling challenging problems at the intersection of fundamental science and practical energy applications.
+
+## PhD students
+We always welcome applications from prospective PhD students who are curious, self-driven, and eager to explore new frontiers in electrochemistry and energy science. Our lab provides rigorous training in both experimental techniques and scientific thinking, preparing students for impactful careers in academia or industry.
+
+## Research assistants
+We always welcome dedicated research assistants to join our lab. This is an excellent opportunity for recent graduates to gain hands-on research experience in electrochemistry and energy materials before pursuing graduate studies.
+
+## Contact
+Please directly reach out to Chang Li via lichang@westlake.edu.cn and let's discuss your exciting research in IEE Lab!

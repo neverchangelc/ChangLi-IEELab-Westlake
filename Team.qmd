@@ -1,0 +1,81 @@
+---
+title: "Team"
+editor: visual
+---
+
+## Chang Li, Principal Investigator
+
+:::::: team-grid
+::: team-background
+### Background
+
+- 2027–Present — Assistant Professor, Westlake University
+- 2024–2026 — Postdoc, Lawrence Berkeley National Laboratory
+- 2019–2024 — Ph.D. in Chemistry, University of Waterloo
+- 2015–2019 — B.Eng. in Materials Science and Engineering, HUST
+:::
+
+::: team-links
+### Links
+
+- [lichang\@westlake.edu.cn](mailto:lichang@westlake.edu.cn){.email}
+- 📚 [Google Scholar](https://scholar.google.com/citations?user=nvmiWvoAAAAJ&hl=en)
+- <a href="https://orcid.org/0000-0001-5420-3856"> <img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" style="vertical-align:middle;"/> ORCID </a>
+- Office: H6
+:::
+
+::: team-photo
+![](images/Team/changli_2025.jpg){width="220px"}
+:::
+::::::
+
+## Postdoc
+
+::::: team-grid
+::: team-background
+### Alex
+
+- Year in joining group: 2027
+- Education: Ph.D. in Chemistry (2026, University of Independence)
+- Research Interests: Solid state batteries
+- About Me: I like eating
+:::
+
+::: team-photo
+![](images/Team/postdocs.png){width="220px"} [alex\@westlake.edu.cn](mailto:alex@westlake.edu.cn){.email}
+:::
+:::::
+
+## Student
+
+::::: team-grid
+::: team-background
+### LYZ
+
+- Year in joining group: 2027
+- Education: B.Eng. in Materials Science and Engineering (2026, University of Curiosity)
+- Research Interests: Mg batteries
+- About Me: I like cooking
+:::
+
+::: team-photo
+![](images/Team/PhDstudents.png){width="220px"} [lyz\@westlake.edu.cn](mailto:lyz@westlake.edu.cn){.email}
+:::
+:::::
+
+## Research Assistant
+
+::::: team-grid
+::: team-background
+### YZ A. Li
+
+- Year in joining group: 2027
+- Education: B.Eng. in Mechanical Engineering (2026, University of Courage)
+- Research Interests: Automation
+- About Me: I like robots
+:::
+
+::: team-photo
+![](images/Team/ResearchAssistant.png){width="220px"} [yal\@westlake.edu.cn](mailto:yal@westlake.edu.cn){.email}
+:::
+:::::
