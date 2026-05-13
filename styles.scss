@@ -215,10 +215,12 @@ h4 {
   background-position: center;
   background-repeat: no-repeat;
 
-  min-height: 250px;
+  min-height: 200px;
 
   padding-top: 10px;
   padding-bottom: 10px;
+
+  position: relative;
 }
 
 /* make navbar transparent */
@@ -258,6 +260,37 @@ h4 {
    FINAL mobile override
    Must be at the very end
    ========================= */
+.navbar-title {
+
+  position: absolute !important;
+
+  left: 350px !important;   /* 控制左右：越大越往右 */
+  top: 18px !important;     /* 控制上下：越大越往下 */
+
+  transform: none !important;
+
+  font-size: 2.6rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 1px !important;
+
+  font-family:
+    "Avenir Next",
+    "Montserrat",
+    "Helvetica Neue",
+    sans-serif !important;
+
+  color: #EAF4FF !important;
+
+  text-shadow:
+    0 2px 8px rgba(0,0,0,0.30) !important;
+
+  white-space: nowrap !important;
+
+  line-height: 1.1 !important;
+
+  z-index: 9999 !important;
+}
+
 
 @media (max-width: 768px) {
  
