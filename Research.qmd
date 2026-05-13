@@ -12,7 +12,7 @@ editor:
 <img src="images/Research/Solid-liquid.svg" class="research-image">
 
 
-We investigate how divalent ions (Mg²⁺, Zn²⁺, Ca²⁺) interact with electrochemical interfaces at the molecular level. By understanding and manipulating the ion's solvation structure, we control whether it crosses an interface, what it forms when it arrives, and whether a desired reaction proceeds selectively in different electrochemical applications like battereies, electrochemical reduction and selective ion separation.
+We investigate how divalent ions (Mg²⁺, Zn²⁺, Ca²⁺) interact with electrochemical interfaces at the molecular level. By understanding and designing the ion's solvation structure, we control whether it crosses an interface, what it forms when it arrives, and whether a desired reaction proceeds selectively in different electrochemical applications like batteries, electrochemical reduction and selective ion separation.
 
 <div class="research-text">
 
@@ -28,7 +28,7 @@ We investigate how divalent ions (Mg²⁺, Zn²⁺, Ca²⁺) interact with elect
 <img src="images/Research/Solid-solid.svg" class="research-image">
 
 
-Solid-state batteries promise higher safety and energy density. Our Research focuses on understanding and controlling solid–solid interface electrochemistry through an integrated experimental and computational approach. We are particularly interested in how local chemical environments, short-range structural heterogeneity, and electro-chemo-mechanical coupling collectively determine ion transport and interfacial stability across buried interfaces. Our goal is to develop scientifically grounded interface design principles that enable high-energy-density, long-lifetime, and mechanically robust solid-state batteries.
+Solid-state batteries promise higher safety and energy density. Our research focuses on understanding and controlling solid–solid interface electrochemistry through an integrated experimental and computational approach. We are particularly interested in how local chemical environments, short-range structural heterogeneity, and electro-chemo-mechanical coupling collectively determine ion transport and interfacial stability across buried interfaces. Our goal is to develop scientifically grounded interface design principles that enable high-energy-density, long-lifetime, and mechanically robust solid-state batteries.
 
 <div class="research-text">
 
