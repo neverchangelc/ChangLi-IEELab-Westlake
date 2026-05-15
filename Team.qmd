@@ -36,7 +36,7 @@ editor: visual
 ### Alex
 
 - Year in joining group: 2027
-- Education: Ph.D. in Chemistry (2026, University of Independence)
+- Education: Ph.D. in Traveling (2026, University of Independence)
 - Research Interests: Solid state batteries
 - About Me: I like eating
 :::
@@ -53,7 +53,7 @@ editor: visual
 ### LYZ
 
 - Year in joining group: 2027
-- Education: B.Eng. in Materials Science and Engineering (2026, University of Curiosity)
+- Education: B.Eng. in Exploring (2026, University of Curiosity)
 - Research Interests: Mg batteries
 - About Me: I like cooking
 :::
@@ -70,7 +70,7 @@ editor: visual
 ### YZ A. Li
 
 - Year in joining group: 2027
-- Education: B.Eng. in Mechanical Engineering (2026, University of Courage)
+- Education: B.Eng. in Jumping (2026, University of Courage)
 - Research Interests: Automation
 - About Me: I like robots
 :::
