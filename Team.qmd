@@ -25,7 +25,7 @@ editor: visual
 :::
 
 ::: team-photo
-![](images/Team/changli_2025.jpg){width="220px"}
+![](images/Team/changli_2025.png){width="220px"}
 :::
 ::::::
 
