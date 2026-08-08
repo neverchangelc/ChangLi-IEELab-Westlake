@@ -1,0 +1,42 @@
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const tocLinks = document.querySelectorAll("#TOC a");
+  const sections = [];
+
+  tocLinks.forEach(link => {
+    const href = link.getAttribute("href");
+    if (href && href.startsWith("#")) {
+      const section = document.querySelector(href);
+      if (section) {
+        sections.push({
+          link: link,
+          section: section
+        });
+      }
+    }
+  });
+
+  function updateTOC() {
+    let current = null;
+
+    sections.forEach(item => {
+      const rect = item.section.getBoundingClientRect();
+
+      if (rect.top <= 250) {
+        current = item;
+      }
+    });
+
+    tocLinks.forEach(link => {
+      link.classList.remove("active");
+    });
+
+    if (current) {
+      current.link.classList.add("active");
+    }
+  }
+
+  window.addEventListener("scroll", updateTOC);
+  updateTOC();
+});
+</script>

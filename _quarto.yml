@@ -1,24 +1,23 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
   page-navigation: true
   title: "Interfacial Electrochemical Engineering Lab"
-  site-url: https://ChangLi.IEELab.github.io
+  site-url: https://changli-ieelab.github.io/westlake
   favicon: images/site-logo.jpg
-  
+
   page-footer:
     left: |
-      [Copyright © 2026 IEELab]
+      Copyright © 2026 IEELab
     right: |
-      [Powered by IEELab]
-    
-  navbar: 
-    title: "Interfacial Electrochemical Engineering Lab"
-    search: false 
+      Powered by IEELab
 
-    right: 
+  navbar:
+    title: "Interfacial Electrochemical Engineering Lab"
+    search: false
+    right:
       - text: "Home"
         href: index.qmd
       - text: "Team"
@@ -30,10 +29,10 @@ website:
       - text: "Openings"
         href: Openings.qmd
 
-
 format:
   html:
     theme: styles.scss
-    toc: true            # 启用目录
-    toc-position: right  # 将目录放置在页面的右侧
-    toc-depth: 3         # 设置目录的深度，数字越大，目录越详细
+    toc: true
+    toc-location: right
+    toc-depth: 3
+    include-after-body: toc-active.html

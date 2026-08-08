@@ -106,24 +106,20 @@ code {
 
 /* 标题样式 */
 h1 {
-  color: $theme-darkcoffee3;
+  color: #1F4E79;
   font-family: $font-pt;
   font-size: 40px;
 }
 
 h2 {
-  color: $theme-darkcoffee3;
+  color: #1F4E79;
   font-family: $font-pt;
   font-size: 30px;
 }
 
 h3, h4 {
-  color: $theme-mocha1;
+  color: #222222;
   font-family: $font-pt;
-}
-
-h4 {
-  color: $theme-darkgreen1;
 }
 
 /* 代码块和推送样式 */
@@ -164,14 +160,23 @@ h4 {
 
 .team-grid {
   display: grid;
-  grid-template-columns: 2fr 1.2fr 220px;
+  grid-template-columns: 220px 1fr;
   gap: 2rem;
-  align-items: start;
+  align-items: center;
+}
+
+.team-info {
+  display: grid;
+  grid-template-rows: auto auto;
+  gap: 1rem;
 }
 
 .team-photo img {
+  width: 220px;
+  height: auto;
   border-radius: 12px;
 }
+
 
 
 .pub-item {
@@ -212,7 +217,7 @@ h4 {
 .navbar {
   background-image: url("images/westlake.png");
   background-size: cover;
-  background-position: center;
+  background-position: center bottom;
   background-repeat: no-repeat;
 
   min-height: 340px;
@@ -361,7 +366,101 @@ h4 {
   }
 }
 
-/* Homepage title size */
+
+.link-row {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.link-row p {
+  margin: 0;
+}
+
+/* Improve navbar text visibility */
+.navbar-nav .nav-link {
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.45);
+  font-size: 1.6rem;
+}
+
+/* Desktop navbar position */
+@media (min-width: 769px) {
+
+  .navbar .container-fluid {
+    position: relative;
+    min-height: 320px;
+  }
+
+  .navbar-collapse {
+    position: absolute;
+    bottom: 4px;
+    left: 72%;
+    transform: translateX(-50%);
+    width: auto;
+  }
+}
+
+/* Chang Group logo on right side */
+#quarto-margin-sidebar::after {
+  content: "";
+  display: block;
+
+  width: 160px;
+  height: 115px;
+
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+
+  background-image: url("images/site-logo.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#TOC a.active {
+  color: #0066cc !important;
+  border-left-color: #0066cc !important;
+}
+
+/* Homepage hero image */
+.homepage-hero {
+  display: block;
+  width: 100%;
+  max-width: 1200px;
+
+  height: 360px;
+  object-fit: cover;
+  object-position: center;
+
+  margin: 0 auto 2rem auto;
+  border-radius: 12px;
+}
+
+
+/* Homepage title - prevent overflow */
+#title-block-header {
+  width: 100%;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #title-block-header h1 {
-    font-size: 38px !important;
+  font-size: clamp(40px, 3vw, 56px) !important;
+  line-height: 1.08 !important;
+  white-space: normal !important;
+
+  width: 100% !important;
+  max-width: 100% !important;
+
+  margin-bottom: 1.4rem !important;
+}
+
+@media (max-width: 768px) {
+  #title-block-header h1 {
+    font-size: 36px !important;
+    line-height: 1.12 !important;
+  }
 }

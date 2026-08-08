@@ -9,10 +9,12 @@ editor:
 
 <div class="research-block">
 
-<img src="images/Research/Solid-liquid.svg" class="research-image">
+<img src="images/Research/Solid-liquid.png" class="research-image">
 
 
-We investigate how divalent ions (Mg²⁺, Zn²⁺, Ca²⁺) interact with electrochemical interfaces at the molecular level. By understanding and designing the ion's solvation structure, we control whether it crosses an interface, what it forms when it arrives, and whether a desired reaction proceeds selectively in different electrochemical applications like batteries, electrochemical reduction and selective ion separation.
+We investigate how ion solvation, transport, and interfacial chemistry govern electrochemical processes at solid–liquid interfaces, with a particular emphasis on multivalent ions such as magnesium, calcium, and zinc ions. By understanding and manipulating the local solvation environment, ion–ion interactions, and interfacial dynamics, we seek to control how ions approach and cross an interface, what interfacial species they form, and which reaction pathways become thermodynamically and kinetically accessible.
+
+These molecular-level insights guide the rational design of electrolytes and interfaces for next-generation batteries, electrochemical nitrogen and carbon dioxide conversion, and other selective electrochemical processes. Ultimately, we aim to establish general design principles that connect electrolyte chemistry and interfacial structure with ion transport, reaction selectivity, and electrochemical performance.
 
 <div class="research-text">
 
@@ -25,10 +27,12 @@ We investigate how divalent ions (Mg²⁺, Zn²⁺, Ca²⁺) interact with elect
 <div class="research-block">
 
 
-<img src="images/Research/Solid-solid.svg" class="research-image">
+<img src="images/Research/Solid-solid.png" class="research-image">
 
 
-Solid-state batteries promise higher safety and energy density. Our research focuses on understanding and controlling solid–solid interface electrochemistry through an integrated experimental and computational approach. We are particularly interested in how local chemical environments, short-range structural heterogeneity, and electro-chemo-mechanical coupling collectively determine ion transport and interfacial stability across buried interfaces. Our goal is to develop scientifically grounded interface design principles that enable high-energy-density, long-lifetime, and mechanically robust solid-state batteries.
+Solid-state electrochemical systems introduce a fundamentally different interfacial environment, where ion transport and electrochemical reactions are intimately coupled with local structure, chemical heterogeneity, and mechanical evolution. We investigate these coupled processes across buried solid–solid interfaces through an integrated approach combining materials synthesis, advanced characterization, electrochemical measurements, and computational modeling.
+
+A particular focus is understanding how local chemical environments, short-range structural heterogeneity, defects and vacancies, and electro-chemo-mechanical coupling govern ion transport and interfacial stability at both cathode–electrolyte and anode–electrolyte interfaces. By connecting atomic- and nanoscale interfacial phenomena with macroscopic electrochemical behavior, we aim to establish predictive design principles for high-energy-density, long-lived, and mechanically robust solid-state batteries and related electrochemical devices.
 
 <div class="research-text">
 
@@ -36,12 +40,14 @@ Solid-state batteries promise higher safety and energy density. Our research foc
 </div>
 
 
-## Automated Device Assembly & Characterization 
+## Automated Characterization & Data-Driven Experimentation 
 <div class="research-block">
 
-<img src="images/Research/automation.svg" class="research-image">
+<img src="images/Research/automation.png" class="research-image">
 
-We focuses on developing standardized and automated workflows for solid-state battery fabrication and testing. The platform integrates automated cell assembly, pressure control, and electrochemical characterization to enable systematic studies of solid electrolytes and interfaces. This infrastructure accelerates materials discovery while providing a foundation for reproducible and data-driven research for solid-state battery or other forms of energy devices. 
+We develop automated and data-driven experimental platforms for electrochemical device assembly, electrochemical evaluation, and physicochemical characterization. By integrating standardized fabrication with electrochemical, mechanical, and spectroscopic measurements, we seek to establish quantitative relationships between interfacial properties, dynamic ion transport, and device performance under well-controlled conditions.
+
+We are particularly interested in advancing automated in situ characterization workflows and integrating them with AI-assisted data analysis and interpretation. By transforming complex experimental measurements into chemically and physically meaningful descriptors, we aim to accelerate the understanding and rational design of electrolytes, interfaces, and functional materials. Together, these efforts provide a foundation for high-throughput, reproducible, and data-driven materials research.
 
 
 <div class="research-text">
