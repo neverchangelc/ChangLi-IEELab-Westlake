@@ -162,13 +162,28 @@ h3, h4 {
   display: grid;
   grid-template-columns: 220px 1fr;
   gap: 2rem;
-  align-items: center;
+  align-items: start;
+}
+
+.team-background h3 {
+  margin-top: 0 !important;
 }
 
 .team-info {
   display: grid;
   grid-template-rows: auto auto;
   gap: 1rem;
+
+  /* 关键：不要让两行撑满整个高度 */
+  align-content: start;
+}
+
+.team-background ul {
+  margin-bottom: 0;
+}
+
+.team-links h3 {
+  margin-top: 0;
 }
 
 .team-photo img {
@@ -401,23 +416,28 @@ h3, h4 {
   }
 }
 
-/* Chang Group logo on right side */
-#quarto-margin-sidebar::after {
-  content: "";
-  display: block;
-
-  width: 160px;
-  height: 115px;
-
+/* Sidebar logos */
+.sidebar-logos {
   margin-top: 25px;
-  margin-left: auto;
-  margin-right: auto;
-
-  background-image: url("images/site-logo.jpg");
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
+  text-align: center;
 }
+
+.sidebar-logos img {
+  display: block;
+  height: auto;
+  object-fit: contain;
+}
+
+.sidebar-logos .chang-logo {
+  width: 150px;
+  margin: 0 auto 28px auto;
+}
+
+.sidebar-logos .westlake-logo {
+  width: 160px;
+  margin: 0 auto;
+}
+
 
 #TOC a.active {
   color: #0066cc !important;
@@ -463,4 +483,258 @@ h3, h4 {
     font-size: 36px !important;
     line-height: 1.12 !important;
   }
+}
+
+/* Disable navbar auto-popup while scrolling */
+#quarto-header {
+  position: static !important;
+  transform: none !important;
+}
+
+#quarto-header.headroom,
+#quarto-header.headroom--pinned,
+#quarto-header.headroom--unpinned {
+  position: static !important;
+  transform: none !important;
+}
+
+/* Remove the blank space reserved for a fixed navbar */
+body.nav-fixed {
+  padding-top: 0 !important;
+}
+
+/* Back to top link */
+.back-to-top {
+  display: block;
+  margin-top: 1.2rem;
+  padding-top: 0.8rem;
+
+  border-top: 1px solid #dddddd;
+
+  color: #4c4c4c !important;
+  font-family: $font-family-sans-serif;
+  font-size: 0.78rem !important;
+  font-weight: 400 !important;
+  line-height: 1.4;
+
+  text-decoration: none !important;
+}
+
+.back-to-top:hover {
+  color: #1F4E79 !important;
+}
+
+/* =========================
+   Openings page visuals
+   ========================= */
+
+.openings-visuals {
+  float: right;
+  width: 38%;
+  max-width: 380px;
+
+  margin: 0 0 2rem 3rem;
+  padding-top: 0.5rem;
+}
+
+
+/* Recruitment image */
+.recruitment-image {
+  display: block;
+
+  width: 100%;
+  height: auto;
+
+  margin: 0 auto 2rem auto;
+
+  border-radius: 12px;
+}
+
+
+/* Research in Action */
+.openings-visuals h3 {
+  color: #1F4E79;
+  font-family: $font-pt;
+
+  font-size: 1.3rem;
+  text-align: center;
+
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+
+/* Research posters */
+.opening-poster {
+  display: block;
+
+  width: 100%;
+  height: auto;
+
+  margin: 0 auto 0.6rem auto;
+
+  border-radius: 6px;
+
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.14);
+
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease;
+}
+
+.opening-poster:hover {
+  transform: scale(1.02);
+
+  box-shadow:
+    0 6px 18px rgba(0, 0, 0, 0.18);
+}
+
+
+/* Poster captions */
+.poster-caption {
+  margin: 0 auto 2rem auto;
+
+  text-align: center;
+
+  font-size: 0.82rem;
+  line-height: 1.4;
+
+  color: #4c4c4c;
+}
+
+
+/* Mobile */
+@media (max-width: 900px) {
+
+  .openings-visuals {
+    float: none;
+
+    width: 100%;
+    max-width: 420px;
+
+    margin: 1rem auto 2.5rem auto;
+  }
+}
+
+/* =========================
+   Poster gallery
+   ========================= */
+
+.poster-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  align-items: start;
+  margin-top: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+.poster-card {
+  margin: 0;
+}
+
+.poster-card img {
+  display: block;
+  width: 100%;
+  height: auto;
+
+  border-radius: 6px;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.15);
+
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease;
+}
+
+.poster-card img:hover {
+  transform: scale(1.025);
+  box-shadow: 0 7px 20px rgba(0, 0, 0, 0.20);
+}
+
+/* Tablet */
+@media (max-width: 900px) {
+  .poster-gallery {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Mobile */
+@media (max-width: 700px) {
+  .poster-gallery {
+    grid-template-columns: 1fr;
+  }
+
+  .poster-card {
+    max-width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* View more posters */
+.poster-view-more {
+  text-align: right;
+  margin-top: -0.5rem;
+  margin-bottom: 2rem;
+}
+
+.poster-view-more a {
+  color: #1F4E79 !important;
+  font-size: 0.88rem;
+  font-weight: 600;
+  text-decoration: none !important;
+}
+
+.poster-view-more a:hover {
+  color: #0066cc !important;
+  text-decoration: underline !important;
+}
+
+#quarto-margin-sidebar,
+.sidebar.margin-sidebar {
+  position: sticky !important;
+  top: 20px !important;
+  align-self: start !important;
+  height: fit-content !important;
+}
+
+html {
+  scroll-behavior: auto !important;
+}
+
+.seminar-list {
+  margin-top: 1.4rem;
+}
+
+.seminar-item {
+  display: grid;
+  grid-template-columns: 90px 1fr;
+  column-gap: 0.8rem;
+  margin-bottom: 1.6rem;
+  align-items: start;
+}
+
+.seminar-year {
+  font-weight: 700;
+  font-size: 1.05rem;
+}
+
+.seminar-info {
+  font-size: 1.05rem;
+  line-height: 1.55;
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  .seminar-item {
+    grid-template-columns: 65px 1fr;
+    column-gap: 0.5rem;
+  }
+}
+
+/* Highly Cited Paper icon size */
+.highly-cited-icon {
+  font-size: 0.75em;
+  position: relative;
+  top: -0.12em;
 }

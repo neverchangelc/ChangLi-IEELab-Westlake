@@ -43,7 +43,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-a9c94084e156453ce75ecc8ff7b2041c.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-e5cb89b492cea530d5057b6523c71364.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-a9c7d5d89ad159cc41b2f3a0798fcfa2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,6 +71,15 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-5TPCGR6ZQC"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-5TPCGR6ZQC', { 'anonymize_ip': true});
+</script>
 
 
 </head>
@@ -154,44 +163,158 @@ ul.task-list li input[type="checkbox"] {
 </main> <!-- /main -->
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  const tocLinks = document.querySelectorAll("#TOC a");
+
+  const toc = document.querySelector("#TOC");
+  if (!toc) return;
+
+  /*
+   * Replace Quarto TOC links with clean clones.
+   * This removes Quarto's original click handlers.
+   */
+  const oldLinks = Array.from(
+    toc.querySelectorAll('a[href^="#"]')
+  );
+
+  oldLinks.forEach(oldLink => {
+    const newLink = oldLink.cloneNode(true);
+    oldLink.replaceWith(newLink);
+  });
+
+
+  // Get the new clean links
+  const tocLinks = Array.from(
+    toc.querySelectorAll('a[href^="#"]')
+  );
+
   const sections = [];
+
 
   tocLinks.forEach(link => {
     const href = link.getAttribute("href");
-    if (href && href.startsWith("#")) {
-      const section = document.querySelector(href);
-      if (section) {
-        sections.push({
-          link: link,
-          section: section
-        });
-      }
-    }
-  });
 
+    if (!href || !href.startsWith("#")) return;
+
+    const target = document.querySelector(href);
+
+    if (!target) return;
+
+    link.addEventListener("click", function (e) {
+      e.preventDefault();
+
+      const targetY =
+        target.getBoundingClientRect().top +
+        window.scrollY -
+        80;
+
+      window.scrollTo({
+        top: targetY,
+        behavior: "auto"
+      });
+
+      history.replaceState(null, "", href);
+    });
+});
+
+
+  /*
+   * Active TOC highlighting
+   */
   function updateTOC() {
+
     let current = null;
 
     sections.forEach(item => {
-      const rect = item.section.getBoundingClientRect();
+
+      const rect =
+        item.section.getBoundingClientRect();
 
       if (rect.top <= 250) {
         current = item;
       }
+
     });
+
 
     tocLinks.forEach(link => {
       link.classList.remove("active");
     });
 
+
     if (current) {
       current.link.classList.add("active");
     }
+
   }
 
-  window.addEventListener("scroll", updateTOC);
+
+  window.addEventListener(
+    "scroll",
+    updateTOC,
+    { passive: true }
+  );
+
   updateTOC();
+
+
+  /*
+   * Back to top
+   */
+  const backToTop =
+    document.createElement("a");
+
+  backToTop.href = "#";
+  backToTop.className = "back-to-top";
+  backToTop.innerHTML = "Back to top ↑";
+
+  backToTop.addEventListener(
+    "click",
+    function (e) {
+
+      e.preventDefault();
+
+      window.scrollTo({
+        top: 0,
+        behavior: "smooth"
+      });
+
+    }
+  );
+
+  toc.appendChild(backToTop);
+
+
+  /*
+   * Sidebar logos
+   */
+  const marginSidebar =
+    document.querySelector(
+      "#quarto-margin-sidebar"
+    );
+
+  if (marginSidebar) {
+
+    const logoBox =
+      document.createElement("div");
+
+    logoBox.className =
+      "sidebar-logos";
+
+    logoBox.innerHTML = `
+      <img class="chang-logo"
+           src="images/site-logo.jpg"
+           alt="Chang Group">
+
+      <img class="westlake-logo"
+           src="images/westlake-logo.png"
+           alt="Westlake University">
+    `;
+
+    marginSidebar.appendChild(
+      logoBox
+    );
+
+  }
+
 });
 </script>
 <script id="quarto-html-after-body" type="application/javascript">

@@ -1,10 +1,14 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - images/westlake-logo.png
+    - images/posters/**
 
 website:
   page-navigation: true
   title: "Interfacial Electrochemical Engineering Lab"
+  google-analytics: "G-5TPCGR6ZQC"
   site-url: https://changli-ieelab.github.io/westlake
   favicon: images/site-logo.jpg
 
@@ -15,6 +19,7 @@ website:
       Powered by IEELab
 
   navbar:
+    pinned: false
     title: "Interfacial Electrochemical Engineering Lab"
     search: false
     right:
@@ -35,4 +40,5 @@ format:
     toc: true
     toc-location: right
     toc-depth: 3
+    smooth-scroll: false
     include-after-body: toc-active.html

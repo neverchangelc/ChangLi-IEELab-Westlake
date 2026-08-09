@@ -1,27 +1,66 @@
 ---
 title: "Openings"
-editor: 
-  markdown: 
-    wrap: 72
-image: images/recruitment.png
-about:
-  id: hero-heading
-  template: solana
-  image-width: 24em
-  image-shape: rounded
 ---
 
+::: openings-visuals
+
+<img src="images/recruitment.png"
+     class="recruitment-image"
+     alt="Join Chang Group">
+
+### Research in Action
+
+<a href="images/posters/poster-jcesr.pdf" target="_blank">
+  <img src="images/posters/poster-jcesr.jpg"
+       class="opening-poster"
+       alt="JCESR Research Poster">
+</a>
+
+<div class="poster-caption">
+<strong>JCESR 2023 Annual Meeting</strong><br>
+Electrolyte & Interfacial Chemistry
+</div>
+
+<a href="images/posters/poster-imlb.pdf" target="_blank">
+  <img src="images/posters/poster-imlb.jpg"
+       class="opening-poster"
+       alt="IMLB Research Poster">
+</a>
+
+<div class="poster-caption">
+<strong>IMLB 2024</strong><br>
+Multivalent Battery Electrochemistry
+</div>
+
+<div class="poster-view-more">
+  <a href="publications.html#poster-presentations">View More →</a>
+</div>
+
+:::
+
+
 ## Postdocs
+
 We are always seeking motivated postdoctoral researchers with expertise in electrochemistry, energy storage, automation, or related fields to join our team. Ideal candidates will have a strong publication record and a passion for tackling challenging problems at the intersection of fundamental science and practical energy applications. Details regarding the position, qualifications, and benefits can be found [here](https://engineering.westlake.edu.cn/Recuitment/202605/t20260509_66457.shtml).
 
+
 ## PhD Students
-We always welcome applications from prospective PhD students who are curious, self-driven, and eager to explore new frontiers in electrochemistry and energy science. Our lab provides rigorous training in both experimental techniques and scientific thinking, preparing students for impactful careers in academia or industry. Details regrading PhD application can be found [here](https://engineering.westlake.edu.cn/Admission/GraduateProgram/).
+
+We always welcome applications from prospective PhD students who are curious, self-driven, and eager to explore new frontiers in electrochemistry and energy science. Our lab provides rigorous training in both experimental techniques and scientific thinking, preparing students for impactful careers in academia or industry. Details regarding PhD applications can be found [here](https://engineering.westlake.edu.cn/Admission/GraduateProgram/).
+
 
 ## Research Assistants
+
 We always welcome dedicated research assistants to join our lab. This is an excellent opportunity for recent graduates to gain hands-on research experience in electrochemistry and energy materials before pursuing graduate studies. Details regarding the position, qualifications, and benefits can be found [here](https://engineering.westlake.edu.cn/Recuitment/202605/t20260509_66450.shtml).
 
+
 ## Undergraduates
+
 We always welcome highly motivated undergraduate students to join our lab. Dr. Chang Li greatly benefited from engaging in research during his early undergraduate years, and we strongly believe that early exposure to scientific research can inspire creativity, independence, and long-term academic growth. Come and explore with us!
 
+
 ## Contact
-Please directly reach out to Dr. Chang Li via 📧 <lichang@westlake.edu.cn> and let's discuss your exciting research in IEE Lab at Westlake!
+
+Please directly reach out to Dr. Chang Li via 📧 [lichang@westlake.edu.cn](mailto:lichang@westlake.edu.cn) and let's discuss your exciting research in IEE Lab at Westlake!
+
+<div style="clear: both;"></div>
